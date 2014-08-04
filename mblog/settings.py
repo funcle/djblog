@@ -58,9 +58,9 @@ WSGI_APPLICATION = 'mblog.wsgi.application'
 
 MYSQL_HOST = 'w.rdc.sae.sina.com.cn'
 MYSQL_PORT = '3307'
-MYSQL_USER = '3415on4nnl'
-MYSQL_PASS = 'mzi11x0wlmyzz1x2iiyhlyh312xxkwm52mly5iwl'
-MYSQL_DB   = 'app_mblogsite'
+MYSQL_USER = '3415on4nal'
+MYSQL_PASS = 'mzi11x0wlmyzz1x2iyhlyh312xxkwmk52mly5iwl'
+MYSQL_DB   = 'app_xxxxx'
 
 # MYSQL_HOST = 'localhost'
 # MYSQL_PORT = '5432'
