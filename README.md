@@ -1,4 +1,4 @@
 djblog
 ======
 
-个人博客的django实现版本。
+个人博客的django版。
