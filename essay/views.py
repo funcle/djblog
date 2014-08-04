@@ -8,8 +8,6 @@ import datetime
 from django.utils import timezone, simplejson
 from django.shortcuts import render, get_object_or_404, render_to_response
 from django.http import HttpResponse, HttpResponseRedirect
-from django.template import RequestContext, loader
-from django.core.urlresolvers import reverse
 from django.views import generic
 from django.views.decorators.csrf import csrf_exempt
 from django.core import serializers
